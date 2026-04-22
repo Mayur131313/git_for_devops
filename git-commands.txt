@@ -1,0 +1,6 @@
+git init --> initializes empty git repository for the file 
+git status --> shows file current status (untracked,staged,tracked) 
+git add filename --> adds file to staged from untracked
+git commit -m "compulsory message" --> adds file to tracked(version control system(vcs) (git)) 
+git restore --> used to restore the deleted files
+ 
