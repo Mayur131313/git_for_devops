@@ -4,5 +4,5 @@ git add filename --> adds file to staged from untracked
 git commit -m "compulsory message" --> adds file to tracked(version control system(vcs) (git)) 
 git restore --> used to restore the deleted files
  
-
+git push origin master
  some changes blah blah blah!!!!
